@@ -1,0 +1,3 @@
+Un món complex i llarg.
+
+Aparentment subconjunt de Combinatoria, però té part de matemàtiques aplicades...
