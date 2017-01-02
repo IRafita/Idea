@@ -59,6 +59,33 @@ Sabem de **permutacions** `P_n` i sobretot de la **Regla del producte**.<br>
 `A_i`, `B_j` on i canvia en 5 i j en 4. I els `A_i` estàn tots junts i el B respectivament també.<br>
 Total = `P_5 · P_4 = 2880` maneres diferents.
 
+Combinació
+----------
+Hi ha 7 persones, on dues volen anar juntes.<br>
+`2 x P_6 = 1440`
+
+Permutacions
+------------
+Quantes permutacions és poden fer amb la paraula `BONDAD`?
+6!/2!
+
+Taula rodona
+------------
+# !!!!!!!!!!!!!!!!!!!
+Voldria fer un programa per calcular aquest cas.
+# !!!!!!!!!!!!!!!!!!!
+Tenim que per simetria, 2 casos són iguals.
+Tenim que per rotació, 4 casos són iguals.
+Tenim que les permutacions totals són 4!.
+Llavors la solució és 4!/(2 x 4) = 3
+## Posiblitat
+n!/(n x 2)
+
+Ordre importa
+-------------
+Si tenim 5 elements, però no podem fer que un sigui abans que l'altre:
+`5!/2 = 60`
+
 Dubtes
 ======
 - Quina relació té la teoria de grafs amb combinatoria?

@@ -1,0 +1,5 @@
+# sortida del vim
+*.swp
+
+# pdf's
+*.pdf
