@@ -78,13 +78,45 @@ Tenim que per simetria, 2 casos són iguals.
 Tenim que per rotació, 4 casos són iguals.
 Tenim que les permutacions totals són 4!.
 Llavors la solució és 4!/(2 x 4) = 3
-## Posiblitat
+## Posibilitat
 n!/(n x 2)
 
 Ordre importa
 -------------
 Si tenim 5 elements, però no podem fer que un sigui abans que l'altre:
 `5!/2 = 60`
+
+Parelles
+--------
+Donat 2n objectes, quantes n parelles diferents podem fer?<br>
+sol? (2n!)/(2^n n!)
+### Generalitzat
+`m n` objectes, conjunts de m objectes?<br>
+[(m n)!]/[(m!)^n n!]
+
+Variacions (sense repetició) (Combinatoria)
+===========================================
+Subconjunt de les Combinacions.<br>
+D'ell, les permutacions són un subconjunt.<br>
+Les variacions no tenen repetició.<br>
+`V_n,r ⇒ V_n,n-1 = P_n`<br>
+`V_n^r = n!/r!`<br>
+On `r<n`
+
+Futbolistes
+-----------
+20 fubolistes, 10 en joc. Combinacions?<br>
+`20!/10! = V_20,10`.
+
+Variacions amb repetició
+========================
+Subconjunt de la regla del producte.<br>
+`VR_n,r = n^r = VR_n^r`
+
+Combinatoria (sense repetició)
+==============================
+<!-- pagina 44 1_Combinatoria -->
+`C_n^r = (n over r) = V_n^r / P_r`
 
 Dubtes
 ======
