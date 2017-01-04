@@ -74,10 +74,10 @@ Taula rodona
 # !!!!!!!!!!!!!!!!!!!
 Voldria fer un programa per calcular aquest cas.
 # !!!!!!!!!!!!!!!!!!!
-Tenim que per simetria, 2 casos són iguals.
-Tenim que per rotació, 4 casos són iguals.
-Tenim que les permutacions totals són 4!.
-Llavors la solució és 4!/(2 x 4) = 3
+Tenim que per simetria, 2 casos són iguals.<br>
+Tenim que per rotació, 4 casos són iguals.<br>
+Tenim que les permutacions totals són 4!.<br>
+Llavors la solució és 4!/(2 x 4) = 3<br>
 ## Posibilitat
 n!/(n x 2)
 
@@ -125,3 +125,7 @@ Dubtes
 codi git o comandes hihihi
 ```
 Ara per poder-ho fer pel mitg `lola mola`.
+
+- Demostracions
+- Axiomes
+Tot això crec que és molt intuitiu, però realment, com se fa?
