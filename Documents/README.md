@@ -1,5 +1,5 @@
 
-1\_Combinatoria.pdf	44<br>
+1\_Combinatoria.pdf	65<br>
 	==>> Exemples molt bons, que m'agradaria que la calculadora resolgues :)<br>
 	def Combinatoria<br>
 	Papiro Rhind, casos<br>
@@ -18,6 +18,8 @@
 		Futbol 20 judadors, pero jugen 10.<br>
 	def Variacions amb repetició<br>
 	def Combinacions (sense repetició) mes que def, for(mula)<br>
+	def Conjunt potència 62.<br>
+		Última lecció en Gotinga de Davide Osenda. 65<br>
 
 
 COMBINATORIA.pdf<br>

@@ -118,6 +118,29 @@ Combinatoria (sense repetició)
 <!-- pagina 44 1_Combinatoria -->
 `C_n^r = (n over r) = V_n^r / P_r`
 
+Triangle de Pascal (o Tartaglia)
+================================
+<!-- Pàgina 53 1_Combinatoria -->
+Propietats (són intuitius pel triangle de Tartaglia)
+- (n over r) = (n over n-r)
+> demostració<br>
+> (n over r) = n!/(r!(n-r)!)<br>
+> (n over n-r)=n!/(n-r)!(n-(n-r)!) = n!/(n-r)!r!
+- (n-1 over r-1) + (n-1 over r) = (n over r)
+> demostració<br>
+> (n-1 over r-1) + (n-1 over r) =<br>
+> (n-1)!/((r-1)!(n-r)!) + (n-1)!/((r!(n-r-1)!) = [r(n-1)!+(n-r)(n-1)!]/[r!(n-r)!] = n!/r!(n-r)! = (n over r)
+- `sum_r=0^n C_r^n = 2^n`
+
+Conjunt potència
+================
+<!-- Pàgina 62 -->
+```
+S = {a,b,c}
+P(S) = {{}, {a}, {b}, {c}, {a,b}, {a,c}, {b,c}, {a,b,c}}
+2^3 combinacions.
+```
+
 Dubtes
 ======
 - Quina relació té la teoria de grafs amb combinatoria?
