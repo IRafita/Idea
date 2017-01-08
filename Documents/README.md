@@ -1,5 +1,6 @@
 
-1\_Combinatoria.pdf	65<br>
+1\_Combinatoria.pdf	99<br>
+<!-- http://matap.dmae.upm.es/WebpersonalBartolo/Probabilidad/1_Combinatoria.pdf -->
 	==>> Exemples molt bons, que m'agradaria que la calculadora resolgues :)<br>
 	def Combinatoria<br>
 	Papiro Rhind, casos<br>
@@ -20,6 +21,10 @@
 	def Combinacions (sense repetició) mes que def, for(mula)<br>
 	def Conjunt potència 62.<br>
 		Última lecció en Gotinga de Davide Osenda. 65<br>
+	La conjectura de Singmaster<br>
+	Principi del palomar o els caixons de Dirichlet<br>
+	Teoria de grafos i nombres de Ramsey<br>
+	Binomi de Newton 97<br>
 
 
 COMBINATORIA.pdf<br>

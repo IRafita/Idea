@@ -141,6 +141,40 @@ P(S) = {{}, {a}, {b}, {c}, {a,b}, {a,c}, {b,c}, {a,b,c}}
 2^3 combinacions.
 ```
 
+Tartaglia
+=========
+<!-- Pàgina 66 -->
+Un altre punt de vista. Si podem anar a dreta o esquerra. Quantes maneres diferents podem arribar a un punt indicat?<br>
+Doncs si, la resposta és el mateix valor de Tartaglia.
+
+La conjectura de Singmaster
+===========================
+Nombre de vegades que apareix un nombre.<br>
+És creu que no és infinit. Però no s'ha pogut demostrar!!
+
+Principi del palomar o els caixons de Dirichlet
+===============================================
+Si tenim kn +1 palomes i n nius. Hi haurà almenys un niu amb k+1 palomes.
+
+Teoria de grafos i nombres de Ramsey
+====================================
+Nombre mínim per assegurar que hi ha 3 persones que es coneien o no?<br>
+Són 6. Fer dibuix per entendre-ho.
+
+Permutacions amb repetició
+==========================
+`PR_n ^{n_1, ..., n_r} = n!/ (n_1! ... n_r!)`
+
+Binomi de Newton
+================
+Moltes respostes si fas la pregunta correcta o el punt de vista adecuat.<br>
+3a²b veiessim ←←→? a = ← i b = →<br>
+
+Generalitació del binomi de Newton
+----------------------------------
+<!-- Pàgina 99 -->
+Voldria fer una representació d'aquest com un triangle de tartaglia.<br>
+
 Dubtes
 ======
 - Quina relació té la teoria de grafs amb combinatoria?
