@@ -1,5 +1,10 @@
+Objectius:
+	Aprendre groff.<br>
+	Fer una lectura més entretinguda de 1\_Combinatoria.pdf<br>
 
-1\_Combinatoria.pdf	99<br>
+
+1\_Combinatoria.pdf<br>
+	1era lectura finalitzada.
 <!-- http://matap.dmae.upm.es/WebpersonalBartolo/Probabilidad/1_Combinatoria.pdf -->
 	==>> Exemples molt bons, que m'agradaria que la calculadora resolgues :)<br>
 	def Combinatoria<br>
@@ -25,6 +30,10 @@
 	Principi del palomar o els caixons de Dirichlet<br>
 	Teoria de grafos i nombres de Ramsey<br>
 	Binomi de Newton 97<br>
+	Generalització del binomi de Newton<br>
+	Combinacions amb repetició<br>
+	Numeros de Stirling<br>
+	Numeros de Catalan<br>
 
 
 COMBINATORIA.pdf<br>

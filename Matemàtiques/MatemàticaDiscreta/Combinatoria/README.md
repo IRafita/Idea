@@ -174,6 +174,12 @@ Generalitació del binomi de Newton
 ----------------------------------
 <!-- Pàgina 99 -->
 Voldria fer una representació d'aquest com un triangle de tartaglia.<br>
+Són permutacions amb repetició...
+
+Combinacions amb repetició
+--------------------------
+<!-- Pàgina 112 -->
+`CR_r ^n = ( n+r-1 over r ) = C_r ^n-1+r`
 
 Dubtes
 ======
