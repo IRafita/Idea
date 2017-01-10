@@ -5,8 +5,8 @@ l'àrea de les [matemàtiques discretes](../README.md).<br>
 
 Estudia
 -------
-La enumeració, construcció i existència de propietats de configuracions que satisfan certes condicions.<br>
-L'ordenació o agrupacions de un determinat nombre d'elements.
+L'enumeració, construcció i existència de propietats de configuracions que satisfan certes condicions.<br>
+L'ordenació o agrupacions d'un determinat nombre d'elements.
 
 Preferència
 -----------
