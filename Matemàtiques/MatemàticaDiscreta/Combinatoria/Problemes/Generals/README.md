@@ -1,0 +1,1 @@
+Ragla del producte.
