@@ -21,7 +21,15 @@ Contingut
 
 problema 79
 -----------
-Combinatoria, la regla del producte.
+<!-- Informació extreta 1_Combinatoria.pdf -->
+Combinatoria, la regla del producte.<br>
+Segons anava a St. Ives<br>
+Vaig creuar amb un home, amb les seves 7 dones.<br>
+Cada dona tenia 7 sacs.<br>
+Cada sac tenia 7 gats.<br>
+Cada gat tenia 7 gatets.<br>
+Gatets, gats, sacs i dones anaven a St. Ives?<br>
+[Abstracció i resolució](../../../MatemàticaDiscreta/Combinatoria/Problemes/Generals/ReglaProducte/README.md)
 
 Links
 =====
