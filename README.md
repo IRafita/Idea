@@ -26,7 +26,7 @@ Si té 2 elements, $2^n$
 Planing long time
 =================
 
-> Slove Mines <br>
+> Slove Mines
 > N -> NN
 
 Futur

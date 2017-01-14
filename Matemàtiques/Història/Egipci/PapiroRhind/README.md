@@ -19,7 +19,7 @@ Representa la millor font d'informació sobre la matemàtica egípcia antiga con
 Contingut
 =========
 
-problema 79
+Problema 79
 -----------
 <!-- Informació extreta 1_Combinatoria.pdf -->
 Combinatoria, la regla del producte.<br>
@@ -29,7 +29,7 @@ Cada dona tenia 7 sacs.<br>
 Cada sac tenia 7 gats.<br>
 Cada gat tenia 7 gatets.<br>
 Gatets, gats, sacs i dones anaven a St. Ives?<br>
-[Abstracció i resolució](../../../MatemàticaDiscreta/Combinatoria/Problemes/Generals/ReglaProducte/README.md)
+[Abstracció i resolució](../../../MatemàticaDiscreta/Combinatoria/Problemes/Generals/ReglaProducte/README.md#Problema-79)
 
 Links
 =====
