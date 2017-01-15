@@ -8,12 +8,12 @@ Que satisfan certes condicions.<br>
 També estudia l'enumeració, construcció i existència de les condicions demanades.
 
 ## Factorial
-> Condició: `x_i ≠ x_j` on `1 ≤ i ≤ n` i `0 ≤ j < i`
+- Condició: `x_i ≠ x_j` on `1 ≤ i ≤ n` i `0 ≤ j < i`
 
 ## Ordenat
-> Condició: `x_i < x_{i+1}` on `0 ≤ i ≤ n-1`
-> Condició: `x_i ≤ x_{i+1}` on `0 ≤ i ≤ n-1`<
-> Condició: `x_i ≤ x_{i+1} +1` on `0 ≤ i ≤ n-1`<
+- Condició: `x_i < x_{i+1}` on `0 ≤ i ≤ n-1`
+- Condició: `x_i ≤ x_{i+1}` on `0 ≤ i ≤ n-1`
+- Condició: `x_i ≤ x_{i+1} +1` on `0 ≤ i ≤ n-1`
 
 # Realitat
 Tot aquest projecte ha nascut amb el motiu de voler resoldre aquest problema:

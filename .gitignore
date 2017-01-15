@@ -3,3 +3,6 @@
 
 # pdf's
 *.pdf
+
+# output C
+*.o

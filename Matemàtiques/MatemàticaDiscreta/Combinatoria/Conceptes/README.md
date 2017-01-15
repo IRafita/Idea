@@ -1,8 +1,10 @@
 # Definició
-D'un conjunt finit `χ`.<br>
-Genera agrupacions amb ordre `{(x_i) | (0 ≤ i ≤ n) ∧ (x_i ∈ χ)}`.<br>
-Que satisfan certes condicions.<br>
-També estudia l'enumeració, construcció i existència de les condicions demanades.
+Donat un conjunt finit: `χ`.<br>
+Definim una condició respecte els elements d'`χ`: `ξ`.<br>
+Genera agrupacions amb ordre `χⁿ_r = {(x_i) | (0 ≤ i ≤ n) ∧ (x_i ∈ χ) ∧ (x_i ≤ r) ∧ (ξ)}`.<br>
+<br>
+Llavors la combinatoria és la branca de les matemàtiques que estudia el comportament de: `χⁿ_r`.<br>
+Estudia l'enumeració, la quantitat, la construcció i l'existència del conjunt `χⁿ_r`.
 
 # Història
 Papirum de Rhind.
