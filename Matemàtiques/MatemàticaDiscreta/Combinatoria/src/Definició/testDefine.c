@@ -10,9 +10,9 @@ int n, r; /* Per saber que hem de fer nosaltres */
 /** Funcions per testeixar. **/
 void show (int *v)
 {
-	int i = n;
+	int i;
 	
-	while (i--)
+	for (i = 0; i < n; i++)
 		printf ("\t%d", v[i]);
 	printf ("\n");
 }

@@ -42,16 +42,13 @@ int _continueF (int n, int *X)
   */
 int _sum1 (int n, int r, int *X)
 {
-	/* Variable per iterar. */
-	int i;
-
-	for ( i = 0; i < n; i++ )
+	while ( n-- )
 	{
 		/* Incrementem d'un. */
-		if ( ++X[i] < r ) return 1;
+		if ( ++X[n] < r ) return 1;
 
 		/* Efecte cascada de la suma. */
-		X[i] = 0;
+		X[n] = 0;
 	}
 return 0;
 }
