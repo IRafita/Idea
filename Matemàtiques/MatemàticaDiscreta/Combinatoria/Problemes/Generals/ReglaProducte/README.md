@@ -44,3 +44,12 @@ Alfabet Braille
 Quants estats diferents podem fer diferents de cap vola?<br>
 `2 x 2 x 2 x 2 x 2 x 2 = 64`, 64 estats diferents amb l'estat cap bola.<br>
 Resolució: Tenim un total de 63 estats diferents.
+
+Wolfgang Amadeus Mozart
+-----------------------
+__Joc de daus musical__<br>
+Un minuet té 16 compasos.
+Mozart va deixar escrit 16 grups d'11 compasos.
+Això és un total `16 x 11 = 176` compasos diferents.<br>
+
+Ara amb els daus tenim 11 possiblitats. Això dona `11¹⁶ ≈ 4.6 x 10¹⁶`

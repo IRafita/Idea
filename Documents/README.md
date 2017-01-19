@@ -5,7 +5,7 @@ Objectius:
 
 1\_Combinatoria.pdf<br>
 	1era lectura finalitzada.<br>
-	2na lectura 6, la regla del producte<br>
+	2na lectura 11, la regla del producte<br>
 <!-- http://matap.dmae.upm.es/WebpersonalBartolo/Probabilidad/1_Combinatoria.pdf -->
 	==>> Exemples molt bons, que m'agradaria que la calculadora resolgues :)<br>
 	def Combinatoria<br>
