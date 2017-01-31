@@ -1,8 +1,9 @@
 # sortida del vim
 *.swp
 
-# pdf's
+# pdf's, postscript
 *.pdf
+*.ps
 
 # output C
 *.o
